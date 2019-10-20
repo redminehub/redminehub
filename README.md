@@ -9,3 +9,6 @@ Redmine Hub is the new marketplace for Redmine premium products and services
 4. In other open source tools, we’ve got marketplaces like Themeforest, Magento Marketplace or Prestashop Add-ons Store. Why not a marketplace for Redmine?
 
 Visit https://redminehub.com
+
+
+[<img src="https://github.com/redminehub/redminehub/blob/master/redmine-hub.jpg">](https://redminehub.com)
